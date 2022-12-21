@@ -1,0 +1,2 @@
+# prevSumCurry
+Created with CodeSandbox
